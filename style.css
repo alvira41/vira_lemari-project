@@ -1,0 +1,204 @@
+                       .judul {
+                           background-color: rgb(77, 9, 9);
+                           height: 10vh;
+                           color: aliceblue;
+                           text-align: center;
+                           font-family: 'Times New Roman', Times, serif;
+                       }
+                       
+                       .subjudul1 {
+                           background-color: rgb(77, 9, 9);
+                           height: 10vh;
+                           text-align: center;
+                           color: aliceblue;
+                           font-family: 'Times New Roman', Times, serif
+                       }
+                       
+                       .gambar1 {
+                           width: 30%;
+                           height: 30%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .isi {
+                           background-color: rgb(77, 9, 9);
+                           height: auto;
+                           color: aliceblue;
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 2;
+                           display: flex;
+                           margin: auto;
+                       }
+                       
+                       .subjudul2 {
+                           background-color: rgb(77, 9, 9);
+                           height: 10vh;
+                           text-align: center;
+                           color: aliceblue;
+                           font-family: 'Times New Roman', Times, serif
+                       }
+                       
+                       .gambar2 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g2 {
+                           background-color: rgb(77, 9, 9);
+                           height: auto;
+                           color: aliceblue;
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar3 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g3 {
+                           background-color: rgb(238, 227, 192);
+                           height: auto;
+                           color: rgb(77, 9, 9);
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar4 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g4 {
+                           background-color: rgb(77, 9, 9);
+                           height: auto;
+                           color: aliceblue;
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar5 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g5 {
+                           background-color: rgb(238, 227, 192);
+                           height: auto;
+                           color: rgb(77, 9, 9);
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar6 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g6 {
+                           background-color: rgb(77, 9, 9);
+                           height: auto;
+                           color: aliceblue;
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar7 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g7 {
+                           background-color: rgb(238, 227, 192);
+                           height: auto;
+                           color: rgb(77, 9, 9);
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar8 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                           ;
+                       }
+                       
+                       .g8 {
+                           background-color: rgb(77, 9, 9);
+                           height: auto;
+                           color: aliceblue;
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .gambar9 {
+                           width: 50%;
+                           height: 50%;
+                           align-items: center;
+                           display: flex;
+                           justify-content: center;
+                       }
+                       
+                       .g9 {
+                           background-color: rgb(238, 227, 192);
+                           height: auto;
+                           color: rgb(77, 9, 9);
+                           text-align: left;
+                           font-family: 'Times New Roman', Times, serif;
+                           font-size: larger;
+                           line-height: 3;
+                           display: flex;
+                       }
+                       
+                       .ig {
+                           background-color: rgb(77, 9, 9);
+                           height: 10vh;
+                           text-align: center;
+                           color: aliceblue;
+                           font-family: 'Times New Roman', Times, serif
+                       }
